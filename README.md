@@ -95,10 +95,4 @@ The dataset includes video metadata, view counts, likes, comments, categories, a
 
 ---
 
-## 👥 Contributors
 
-* **Tanjila Tabassum** – Data ingestion, Kaggle API setup, data cleaning
-* Bridgette Wang – Data cleaning and standardization
-* Nidhi Rao – Data visualization
-* Su Wai – Statistical analysis
-* Rodrigo Monteagudo – Database export and documentation
